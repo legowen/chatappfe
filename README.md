@@ -9,6 +9,7 @@
 ![Bootstrap](https://img.shields.io/badge/-Bootstrap-purple?style=for-the-badge&logo=Bootstrap)
 
 ## Function
+* Using WebSocket(socket.io)
 * Login Function
 * Input chat in the room
 * Saving chat message in database
